@@ -1,0 +1,27 @@
+{
+  "video": {
+    "filename": "podcast.mp4",
+    "duration": 3600,
+    "language": "en"
+  },
+  "segments": [
+    {
+      "id": 1,
+      "start": 10.25,
+      "end": 14.80,
+      "text": "Welcome to today's podcast.",
+      "words": [
+        {
+          "start": 10.25,
+          "end": 10.70,
+          "word": "Welcome"
+        },
+        {
+          "start": 10.75,
+          "end": 10.90,
+          "word": "to"
+        }
+      ]
+    }
+  ]
+}
