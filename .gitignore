@@ -8,6 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
-videos/
-clips/
+/videos/*
+!/videos/.gitkeep
+/clips/*
+!/clips/.gitkeep
 .env
