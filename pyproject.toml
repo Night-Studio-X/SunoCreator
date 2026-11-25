@@ -11,6 +11,7 @@ dependencies = [
     "av<19",
     "faster-whisper>=1.2.1",
     "pydantic-ai>=2.74.0",
+    "pydantic-ai-slim[groq]>=2.74.0",
 ]
 
 [project.scripts]
