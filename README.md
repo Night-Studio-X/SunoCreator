@@ -50,3 +50,9 @@ The project’s `pyproject.toml` and `uv.lock` are the source of truth for depen
 ```bash
 uv export --format requirements.txt --output-file requirements.txt
 ```
+
+Download videos in the videos folder:
+
+```bash
+python video_downloader.py [youtube video url]
+```
