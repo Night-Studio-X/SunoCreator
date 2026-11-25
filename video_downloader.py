@@ -1,6 +1,6 @@
 import os
-import yt_dlp
 import sys
+import yt_dlp
 
 def download_video(url, output_path='videos', filename='video.mp4'):
     try:
@@ -11,33 +11,33 @@ def download_video(url, output_path='videos', filename='video.mp4'):
         
         print(f"Downloading video from: {url}")
         
-        # Configure yt-dlp
+        # Configure yt-dlp to download and save as video.mp4
         ydl_opts = {
             'format': 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]/best',
-            'outtmpl': os.path.join(output_path, filename), 
-            'quiet': False,
-            'verbose': True,
-            'no_warnings': False,
+            'outtmpl': os.path.join(output_path, filename),
+            'overwrites': True,
         }
         
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            info_dict = ydl.extract_info(url, download=True)
-            print(f"Downloaded video info: {info_dict}")
+            ydl.download([url])
         
         output_file = os.path.join(output_path, filename)
         if os.path.exists(output_file):
-            print(f"Video downloaded successfully and saved as: {output_file}")
+            print(f"\nVideo downloaded successfully and saved as: {output_file}")
         else:
-            print(f"File not found at {output_file}. Check if the download was successful.")
+            print(f"\nFile not found at {output_file}. Check if download completed.")
             
     except Exception as e:
         print(f"An error occurred: {e}")
-        import traceback
-        traceback.print_exc()
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        url = input("Enter the YouTube URL: ")
+    if len(sys.argv) > 1:
+        url = sys.argv[1].strip()
     else:
-        url = sys.argv[1]
-    download_video(url)
+        url = input("Enter the url: ").strip()
+        
+    if url:
+        download_video(url)
+    else:
+        print("No URL provided.")
+
