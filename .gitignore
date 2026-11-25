@@ -13,3 +13,8 @@ wheels/
 /clips/*
 !/clips/.gitkeep
 .env
+
+graphify-out/
+.graphifyignore
+.clinerules
+.clineignore
