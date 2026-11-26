@@ -9,13 +9,13 @@ from pydantic_ai.exceptions import ModelUnavailableError
 
 load_dotenv()
 
-instruction = """
+instructions = """
 You are an assistant that selects a compelling short-video transcript from a
 long-form transcript supplied by the user.
 
 Read the complete transcript and identify the most important, engaging material
-that works as one coherent short video of about 60 seconds. Select original
-transcript segments whose combined duration is as close to 60 seconds as possible.
+that works as one coherent short video. Select original
+transcript segments whose combined duration is as close to 60 seconds or below 120 seconds as possible.
 Keep the selected segments in their original chronological order.
 
 Return a structured response matching the requested schema. Each clip should
@@ -49,7 +49,7 @@ class ListContent(BaseModel):
 
 agent = Agent(
     model="google:gemini-3.5-flash-lite",
-    instructions=instruction,
+    instructions=instructions,
     output_type=ListContent,
 )
 

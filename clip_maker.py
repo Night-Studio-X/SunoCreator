@@ -13,8 +13,41 @@ input_video = Path("videos/video.mp4")
 output_dir = Path("clips")
 output_dir.mkdir(exist_ok=True)
 
+####-----ENCODER------####
+def get_video_encoder():
+    """Check available encoders and select the best one."""
+
+    # FFmpeg-এর encoder তালিকা সংগ্রহ করছি
+    result = subprocess.run(
+        ["ffmpeg", "-hide_banner", "-encoders"],
+        capture_output=True,
+        text=True,
+        check=True
+    )
+
+    # NVIDIA encoder পাওয়া গেলে GPU ব্যবহার করব
+    if "h264_nvenc" in result.stdout:
+        print("NVIDIA GPU encoder found! Using h264_nvenc.")
+        return "h264_nvenc"
+
+    # NVIDIA encoder না থাকলে CPU ব্যবহার করব
+    print("NVIDIA GPU encoder not found. Using libx264.")
+    return "libx264"
+
+VIDEO_ENCODER = get_video_encoder()
+# preset for the video
+if VIDEO_ENCODER == "h264_nvenc":
+    VIDEO_OPTIONS = ["-preset", "p4", "-cq", "23", "-b:v", "0"]
+else:
+    VIDEO_OPTIONS = ["-preset", "medium", "-crf", "23"]
+
+####------------END----------####
+
 def ids_are_continuous(segments):
     """Check if segment IDs form a perfect sequence with no gaps."""
+    if not segments:
+        print("Segments not found.")
+        return False
     ids = [s["id"] for s in segments]
     return ids == list(range(ids[0], ids[-1] + 1))
 
@@ -33,13 +66,14 @@ def process_clip(clip, input_video, output_dir):
         end_time = segments[-1]["end"]
         
         print(f"IDs continuous ({segments[0]['id']}–{segments[-1]['id']}). Single cut: {start_time}s → {end_time}s")
-
+    
         cmd = [
             "ffmpeg", "-y",
             "-ss", str(start_time),
             "-to", str(end_time),
             "-i", str(input_video),
-            "-c:v", "libx264",
+            "-c:v", VIDEO_ENCODER,
+            *VIDEO_OPTIONS,
             "-c:a", "aac",
             str(final_output)
         ]
@@ -58,7 +92,8 @@ def process_clip(clip, input_video, output_dir):
                 "-ss", str(seg["start"]),
                 "-to", str(seg["end"]),
                 "-i", str(input_video),
-                "-c:v", "libx264",
+                "-c:v", VIDEO_ENCODER,
+                *VIDEO_OPTIONS,
                 "-c:a", "aac",
                 str(temp_part)
             ]
@@ -87,6 +122,34 @@ def process_clip(clip, input_video, output_dir):
             tf.unlink(missing_ok=True)
 
     print(f"Created: {final_output}")
+
+#use this when importing
+def create_clips(clip_ids=None):
+    """Automatically makes all the clips that included in clips.json"""
+
+    # Read clips from JSON
+    with open(clips_json, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    all_clips = data["clips"]
+
+    # If IDs provided, select only those clips
+    if clip_ids is not None:
+        all_clips = [
+            clip for clip in all_clips
+            if clip["id"] in clip_ids
+        ]
+
+    if not all_clips:
+        print("No matching clips found.")
+        return
+
+    # Process selected clips
+    for clip in all_clips:
+        try:
+            process_clip(clip, input_video, output_dir)
+        except Exception as e:
+            print(f"Error processing clip {clip['id']}: {e}")
 
 if __name__ == "__main__":
     with open(clips_json, "r", encoding="utf-8") as f:

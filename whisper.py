@@ -24,47 +24,58 @@ model = WhisperModel(
     compute_type="int8"
 )
 
-print("getting segments")
-segments, info = model.transcribe(
-    "videos/video.mp4",
-    word_timestamps=True,
-    log_progress=True
-)
-print("done")
+def get_full_transcript():
 
-result = {
-    "video": {
-        "filename": "video.mp4",
-        "duration": round(info.duration, 2),
-        "language": info.language,
-    },
-    "segments": [],
-}
+    try:
+        
+        print("getting segments")
+        segments, info = model.transcribe(
+            "videos/video.mp4",
+            word_timestamps=True,
+            log_progress=True
+        )
+        print("done")
+    except Exception as e:
+        print("The model failed to generate full transcript.\nError: ", e)
+        raise
 
-for segment in segments:
-    words = []
+    #initializing result
+    result = {
+        "video": {
+            "filename": "video.mp4",
+            "duration": round(info.duration, 2),
+            "language": info.language,
+        },
+        "segments": [],
+    }
 
-    if segment.words:
-        for word in segment.words:
-            words.append({
-                "start": round(word.start, 2),
-                "end": round(word.end, 2),
-                "word": word.word.strip(),
-            })
+    #adding the segments to the result
+    for segment in segments:
+        words = []
 
-    result["segments"].append({
-        "id": len(result["segments"]) + 1,
-        "start": round(segment.start, 2),
-        "end": round(segment.end, 2),
-        "text": segment.text.strip(),
-        "words": words,
-    })
+        if segment.words:
+            for word in segment.words:
+                words.append({
+                    "start": round(word.start, 2),
+                    "end": round(word.end, 2),
+                    "word": word.word.strip(),
+                })
 
-output_path = Path("data/full_transcript.json")
-output_path.parent.mkdir(parents=True, exist_ok=True)
+        result["segments"].append({
+            "id": len(result["segments"]) + 1,
+            "start": round(segment.start, 2),
+            "end": round(segment.end, 2),
+            "text": segment.text.strip(),
+            "words": words,
+        })
 
-with output_path.open("w", encoding="utf-8") as file:
-    json.dump(result, file, ensure_ascii=False, indent=2)
+    #creating the output dir for the full_transcript.json
+    output_path = Path("data/full_transcript.json")
+    output_path.parent.mkdir(parents=True, exist_ok=True)
 
-print(f"Transcription completed: {output_path}")
-print(f"Total segments: {len(result['segments'])}")
+    #inserting the result on to the output dir
+    with output_path.open("w", encoding="utf-8") as file:
+        json.dump(result, file, ensure_ascii=False, indent=2)
+
+    print(f"Transcription completed: {output_path}")
+    print(f"Total segments: {len(result['segments'])}")

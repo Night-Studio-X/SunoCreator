@@ -5,180 +5,1400 @@
       "id": 1,
       "segments": [
         {
+          "id": 1,
+          "start": 0.0,
+          "end": 4.48,
+          "text": "When you look at people growing up right now, when you look at people in their 20s and 30s,"
+        },
+        {
+          "id": 2,
+          "start": 4.94,
+          "end": 13.12,
+          "text": "why is it that they're secretly confused, lonely, hurt when externally everything seems to look okay?"
+        },
+        {
+          "id": 3,
+          "start": 13.58,
+          "end": 17.8,
+          "text": "So a lot of the people that I work with, I think externally things don't look okay. I think that was"
+        },
+        {
+          "id": 4,
+          "start": 17.8,
+          "end": 23.94,
+          "text": "more true a few years ago. I think now we're starting to become more and more aware that things are"
+        },
+        {
+          "id": 5,
+          "start": 23.94,
+          "end": 31.2,
+          "text": "even externally not okay, but I'm totally with you. I think I was just reading a paper about this guy"
+        },
+        {
+          "id": 6,
+          "start": 31.2,
+          "end": 35.92,
+          "text": "named Eric Erickson who sort of talks about the stages that we go through in life. He was a"
+        },
+        {
+          "id": 7,
+          "start": 35.92,
+          "end": 40.44,
+          "text": "psychologist or psychiatrist. And so he said that a lot of people are going through something called"
+        },
+        {
+          "id": 8,
+          "start": 40.44,
+          "end": 48.78,
+          "text": "a noiseless crisis. A lot of people that you look at are going through a crisis that you will never see."
+        },
+        {
+          "id": 9,
+          "start": 49.42,
+          "end": 55.58,
+          "text": "So we're sort of familiar with this idea of a midlife crisis. This is when men like me and you,"
+        },
+        {
+          "id": 10,
+          "start": 56.34,
+          "end": 62.56,
+          "text": "we maybe hit our 40s, maybe hit our 50s, we're maybe paying a mortgage, we don't get to do what"
+        },
+        {
+          "id": 11,
+          "start": 62.56,
+          "end": 68.74,
+          "text": "we want, we'll maybe die our hair, buy a convertible and start driving really fast. But what I think"
+        },
+        {
+          "id": 12,
+          "start": 68.74,
+          "end": 74.62,
+          "text": "is happening way more and there was an interesting study on LinkedIn that found that 70% of people"
+        },
+        {
+          "id": 13,
+          "start": 75.4,
+          "end": 80.36,
+          "text": "in their 20s are going through something called a quarter life crisis. So this is a time when"
+        },
+        {
+          "id": 14,
+          "start": 80.36,
+          "end": 84.82,
+          "text": "you're sort of like you sort of took all the right steps. You did what you should do,"
+        },
+        {
+          "id": 15,
+          "start": 85.3,
+          "end": 90.66,
+          "text": "but you wake up one day and you realize this is not the life that I want. So I think we're seeing a"
+        },
+        {
+          "id": 16,
+          "start": 90.66,
+          "end": 95.84,
+          "text": "ton of that. And I think that one of the main reasons for that is that the answers that the generation"
+        },
+        {
+          "id": 17,
+          "start": 95.84,
+          "end": 102.16,
+          "text": "before before gave us used to work. So like when I was growing up, my parents were like super like,"
+        },
+        {
+          "id": 18,
+          "start": 102.16,
+          "end": 106.48,
+          "text": "I'll look, you have to be a doctor. And and then this sort of idea of going to college,"
+        },
+        {
+          "id": 19,
+          "start": 106.7,
+          "end": 111.4,
+          "text": "getting educated, you'll get a good job and then you'll be able to buy a house and happily ever"
+        },
+        {
           "id": 20,
-          "start": 115.36,
-          "end": 121.94,
-          "text": "how you can do that as a publicly traded company with stand-the-pressure and as you say, the embarrassment"
+          "start": 111.4,
+          "end": 116.42,
+          "text": "after kind of stuff. But I think that formula doesn't work anymore. I think our institutions have"
         },
         {
           "id": 21,
-          "start": 123.4,
-          "end": 130.84,
-          "text": "of... It was embarrassing. It was humiliating. You're the only face that everybody hates."
+          "start": 116.42,
+          "end": 121.86,
+          "text": "started to fail us not in a negative way. But I think if you look at the way that psychiatry develops,"
         },
         {
           "id": 22,
-          "start": 134.24,
-          "end": 140.32,
-          "text": "Your employees are probably embarrassed for you. Your question about doing it again. You know, most"
+          "start": 122.52,
+          "end": 127.56,
+          "text": "you know, we'll do research for 20 or 30 years before we figure something out. And there's still"
+        },
+        {
+          "id": 23,
+          "start": 127.56,
+          "end": 133.44,
+          "text": "studies being published on Facebook today. And I don't mean meta. I mean Facebook. So this was"
+        },
+        {
+          "id": 24,
+          "start": 133.44,
+          "end": 138.74,
+          "text": "a trial that started like eight years ago that there's like publishing the results now. So the rate"
+        },
+        {
+          "id": 25,
+          "start": 138.74,
+          "end": 144.54,
+          "text": "of change in the world is rapidly increasing. And we don't really know how to deal with it. And young"
+        },
+        {
+          "id": 26,
+          "start": 144.54,
+          "end": 149.2,
+          "text": "people are getting absolutely crushed. And is that affecting? Are you saying it's affecting our"
+        },
+        {
+          "id": 27,
+          "start": 149.92,
+          "end": 155.64,
+          "text": "identity? Like you said, before there was almost a path that was laid out. Yep. And so you had these"
+        },
+        {
+          "id": 28,
+          "start": 155.64,
+          "end": 160.04,
+          "text": "milestones effectively, I go to college, I graduate, I'll get married at a certain age,"
+        },
+        {
+          "id": 29,
+          "start": 160.08,
+          "end": 164.22,
+          "text": "I'll buy a house at a certain age, I'll retire at a certain age. There were these milestones that were"
+        },
+        {
+          "id": 30,
+          "start": 164.22,
+          "end": 170.36,
+          "text": "laid out for you. And now, whether you go to college or not, there's basically no milestones because"
+        },
+        {
+          "id": 31,
+          "start": 170.36,
+          "end": 175.02,
+          "text": "the goals of change, the targets have changed. Yeah. So I don't even know if I think the targets have"
+        },
+        {
+          "id": 32,
+          "start": 175.02,
+          "end": 180.0,
+          "text": "changed, but I think the bigger problem is the targets aren't meatable anymore."
         }
       ],
-      "hook": "\"It was embarrassing. It was humiliating. You're the only face that everybody hates.\"",
-      "recommended_title": "The Humiliation of Building NVIDIA"
+      "hook": "Why are people in their 20s and 30s secretly confused and lonely when everything looks fine?",
+      "recommended_title": "The Noiseless Crisis of Our Generation"
     },
     {
       "id": 2,
       "segments": [
         {
           "id": 33,
-          "start": 217.5,
-          "end": 225.68,
-          "text": "and humiliation and all the setbacks. And you compress all of that. And you just told that 30-year-old"
+          "start": 180.0,
+          "end": 188.42,
+          "text": "So just as a simple example, when I went to college, it cost about $5,000 a semester, $6,000 I think. So college cost, it"
+        },
+        {
+          "id": 34,
+          "start": 188.42,
+          "end": 193.66,
+          "text": "took me five and a half years to graduate. So it cost me somewhere around $30,000 to get an"
         },
         {
           "id": 35,
-          "start": 232.14,
-          "end": 236.64,
-          "text": "your company was going to be successful. It's not going to be anything like that. And you are going"
+          "start": 193.66,
+          "end": 199.38,
+          "text": "undergraduate degree. I mean, that's the cost of one year now, right? So costs are increasing a lot."
         },
         {
           "id": 36,
-          "start": 236.64,
-          "end": 243.38,
-          "text": "to be the person who delivers most of the most horrific financial return news that anybody's ever"
+          "start": 199.78,
+          "end": 204.48,
+          "text": "If you look at this idea of like getting married by a certain age and I have so many patients"
+        },
+        {
+          "id": 37,
+          "start": 204.48,
+          "end": 209.48,
+          "text": "who really struggle with this because they feel like they're late. They're like 50% of people under"
+        },
+        {
+          "id": 38,
+          "start": 209.48,
+          "end": 214.16,
+          "text": "the age of 30 still live with their parents. So if you sort of think about how does that cascade?"
         },
         {
           "id": 39,
-          "start": 254.52,
-          "end": 260.2,
-          "text": "such enormously bad news. You have to do all of that. Which you start again. The answer absolutely"
+          "start": 214.16,
+          "end": 218.62,
+          "text": "Say that again. 50% of people under the age of 30 who are adults still live with their parents."
         },
         {
           "id": 40,
-          "start": 260.2,
-          "end": 270.24,
-          "text": "not. And so I think a lot of people forget that that the pain and suffering necessary, the endurance"
+          "start": 219.3,
+          "end": 222.76,
+          "text": "Wow, I didn't know that. Right? So people in the United States. In the US. That feels like India."
+        },
+        {
+          "id": 41,
+          "start": 224.7,
+          "end": 228.0,
+          "text": "And it's an economic thing because it used to be that you can like, I mean, think about,"
+        },
+        {
+          "id": 42,
+          "start": 228.12,
+          "end": 232.84,
+          "text": "you know, we're here in New York, like rents are crazy. Like you can pay like $3,000 for like a closet,"
+        },
+        {
+          "id": 43,
+          "start": 233.3,
+          "end": 238.24,
+          "text": "you know? So, so now it's just not people are finishing college. They have a ton of debt."
+        },
+        {
+          "id": 44,
+          "start": 238.24,
+          "end": 242.58,
+          "text": "There's inflation. People are not able to get jobs. And then if you think about the cascading"
+        },
+        {
+          "id": 45,
+          "start": 242.58,
+          "end": 249.84,
+          "text": "effect, if I want a date, right? And I'm like a 27 year old dude. And then like, if the date goes"
+        },
+        {
+          "id": 46,
+          "start": 249.84,
+          "end": 253.66,
+          "text": "well, it's like, do you want to come back to my place? And then we go back to my place and like,"
+        },
+        {
+          "id": 47,
+          "start": 254.26,
+          "end": 260.18,
+          "text": "my boss there, you know? And then it's kind of like, you can't really, you know, do that."
+        },
+        {
+          "id": 48,
+          "start": 260.6,
+          "end": 265.12,
+          "text": "So we're seeing sort of this epidemic of loneliness. We're seeing this like dating and mating"
+        },
+        {
+          "id": 49,
+          "start": 265.12,
+          "end": 270.12,
+          "text": "crisis amongst like men and women and a lot of young men are struggling. A lot of young women"
+        },
+        {
+          "id": 50,
+          "start": 270.12,
+          "end": 276.26,
+          "text": "are struggling to. And so like I think the world that we lived in has changed and we need new answers."
+        },
+        {
+          "id": 51,
+          "start": 276.78,
+          "end": 283.02,
+          "text": "We need new paths to navigate this world. Yeah, I love what you said about how the targets are just"
+        },
+        {
+          "id": 52,
+          "start": 283.02,
+          "end": 288.92,
+          "text": "unmeatable. Yeah. Because that's why people feel behind. It's why they feel late. It's why they feel"
+        },
+        {
+          "id": 53,
+          "start": 288.92,
+          "end": 294.28,
+          "text": "they'll never get there. I now we're all using chat GPT, but a couple of years ago when I was writing my"
+        },
+        {
+          "id": 54,
+          "start": 294.28,
+          "end": 300.56,
+          "text": "second book, I started off by talking about how if you type in on Google, the first thing when you"
+        },
+        {
+          "id": 55,
+          "start": 300.56,
+          "end": 306.76,
+          "text": "type in, will I ever, which is obviously a question about your future and possibility? The first thing"
+        },
+        {
+          "id": 56,
+          "start": 306.76,
+          "end": 313.48,
+          "text": "that comes up is will I ever find love? Wow. And the second thing that comes up is will I ever be"
+        },
+        {
+          "id": 57,
+          "start": 313.48,
+          "end": 319.2,
+          "text": "enough? Wow. Those are the top two questions. Wow. And when you look at anything, wow, like love"
+        },
+        {
+          "id": 58,
+          "start": 319.2,
+          "end": 324.84,
+          "text": "and self-worth, like they are right up there as the top two most Google things at that time."
         }
       ],
-      "hook": "\"If you compress all of that... would you start again? The answer is absolutely not.\"",
-      "recommended_title": "Why Jensen Huang Wouldn't Build NVIDIA Again"
+      "hook": "50% of adults under 30 still live with their parents due to the economic reality.",
+      "recommended_title": "The Reality of Living at Home in Your 20s"
     },
     {
       "id": 3,
       "segments": [
         {
-          "id": 42,
-          "start": 277.22,
-          "end": 282.52,
-          "text": "Yeah. I spent all my time forgetting yesterday. Yeah. In fact, you know, right now as we're talking,"
+          "id": 60,
+          "start": 330.74,
+          "end": 337.68,
+          "text": "What does someone do with the feeling of feeling late, of feeling behind, of feeling being left behind?"
         },
         {
-          "id": 43,
-          "start": 282.9,
-          "end": 290.82,
-          "text": "it is really quite hard for me to resurface those memories and resurface those feelings."
+          "id": 61,
+          "start": 338.36,
+          "end": 345.58,
+          "text": "So this is why I was excited to come here today. Because you didn't ask me why you asked what does"
         },
         {
-          "id": 44,
-          "start": 291.04,
-          "end": 297.44,
-          "text": "And the reason for that is I spent all of my time, all of my life trying to forget yesterday."
+          "id": 62,
+          "start": 345.58,
+          "end": 350.7,
+          "text": "someone do? And I think that's what sort of exemplifies what I appreciate about you is that you're"
         },
         {
-          "id": 45,
-          "start": 297.44,
-          "end": 300.32,
-          "text": "Right. Is it trigger? Does it trigger?"
+          "id": 63,
+          "start": 350.7,
+          "end": 358.74,
+          "text": "always focused on what to do, not necessarily why things happen. So I think if you have that feeling,"
         },
         {
-          "id": 46,
-          "start": 301.9,
-          "end": 308.12,
-          "text": "Tension. Yeah. Yeah. Triggers anxiety. Triggers. Yeah. That's why I don't love talking about my past"
+          "id": 64,
+          "start": 359.4,
+          "end": 364.74,
+          "text": "there are a couple of important things to do. The first is that that feeling has to do with your sense"
         },
         {
-          "id": 47,
-          "start": 308.12,
-          "end": 312.96,
-          "text": "because I spent all my time forgetting it so that you can get back on that horse."
+          "id": 65,
+          "start": 364.74,
+          "end": 375.56,
+          "text": "of identity. So where do you get these expectations? Who do you think you are? And I don't mean that"
+        },
+        {
+          "id": 66,
+          "start": 375.56,
+          "end": 379.94,
+          "text": "this is what we see in people who have a quarter life crisis is that they are too busy with"
+        },
+        {
+          "id": 67,
+          "start": 379.94,
+          "end": 384.26,
+          "text": "identification, that they don't understand identity. Now I know that's kind of confusing. But if we"
+        },
+        {
+          "id": 68,
+          "start": 384.26,
+          "end": 389.06,
+          "text": "think about identification, what does that mean? That means that I'm going to look outside of me and"
+        },
+        {
+          "id": 69,
+          "start": 389.06,
+          "end": 394.0,
+          "text": "I'm going to find a group of people and I'm going to say my identity is like, I'm one of these people"
+        },
+        {
+          "id": 70,
+          "start": 394.0,
+          "end": 402.48,
+          "text": "now, right? Like I'm a I'm a goth kid or I'm super into football or I'm a gamer, right? Or I'm an"
+        },
+        {
+          "id": 71,
+          "start": 402.48,
+          "end": 406.22,
+          "text": "in cell, like there are all kinds of ways that we can identify, we can identify with a political"
+        },
+        {
+          "id": 72,
+          "start": 406.22,
+          "end": 411.18,
+          "text": "party, but identification and identity are two different things. And I think that when people feel"
+        },
+        {
+          "id": 73,
+          "start": 411.18,
+          "end": 417.22,
+          "text": "like they are behind, they have this expectation, they're looking outside and they're saying,"
+        },
+        {
+          "id": 74,
+          "start": 417.34,
+          "end": 424.38,
+          "text": "this is what I should be, but their information about who they are comes from what they see outside"
+        },
+        {
+          "id": 75,
+          "start": 424.38,
+          "end": 429.58,
+          "text": "of them. And the most important thing that you can do, I know it sounds kind of generic, is to look"
+        },
+        {
+          "id": 76,
+          "start": 429.58,
+          "end": 434.06,
+          "text": "within. And I mean, really think about, you know, how do I feel about myself? What do I want in"
+        },
+        {
+          "id": 77,
+          "start": 434.06,
+          "end": 441.6,
+          "text": "life? I oftentimes find that people who feel like they're not enough, that feeling comes from trying"
+        },
+        {
+          "id": 78,
+          "start": 441.6,
+          "end": 447.74,
+          "text": "to make other people happy and failing, right? So if my parents want me to be a doctor and I don't go"
+        },
+        {
+          "id": 79,
+          "start": 447.74,
+          "end": 452.8,
+          "text": "to medical school, which is what happened in my case, you know, then you've let them down and we get"
+        },
+        {
+          "id": 80,
+          "start": 452.8,
+          "end": 459.14,
+          "text": "so much our core sense of identity, the way we're socialized usually comes from people outside of us."
+        },
+        {
+          "id": 81,
+          "start": 459.58,
+          "end": 464.96,
+          "text": "So there's a lot of research on things like attachment theory, where a child knows what they feel"
+        },
+        {
+          "id": 82,
+          "start": 465.8,
+          "end": 471.54,
+          "text": "based on reflection from people around them. And my favorite example of this is like, you know, when"
+        },
+        {
+          "id": 83,
+          "start": 471.54,
+          "end": 476.06,
+          "text": "I remember when I had a two-year-old daughter, and she was like running around and then she would fall,"
+        },
+        {
+          "id": 84,
+          "start": 476.68,
+          "end": 482.66,
+          "text": "and then in a moment, what she would do is look around. And if everyone else is like, oh my god,"
+        },
+        {
+          "id": 85,
+          "start": 482.7,
+          "end": 487.44,
+          "text": "are you okay? She'd start crying. But if everyone is laughing, she'd get up and start laughing too."
+        },
+        {
+          "id": 86,
+          "start": 488.08,
+          "end": 492.86,
+          "text": "So we learn so much about ourselves from the people around us. I think the problem is that"
+        },
+        {
+          "id": 87,
+          "start": 492.86,
+          "end": 499.38,
+          "text": "the expectations that everyone places on us are no longer meatable in the same way. So what you"
+        },
+        {
+          "id": 88,
+          "start": 499.38,
+          "end": 504.26,
+          "text": "really need to do is ask yourself, you know, who am I living for? What do I want? What are the"
+        },
+        {
+          "id": 89,
+          "start": 504.26,
+          "end": 511.22,
+          "text": "expectations that I've internalized that form my value? And what we sort of notice is if you really"
+        },
+        {
+          "id": 90,
+          "start": 511.22,
+          "end": 518.72,
+          "text": "think about what the source of your suffering is, it's there can be pain, but usually what really"
+        },
+        {
+          "id": 91,
+          "start": 518.72,
+          "end": 525.3,
+          "text": "messes people up are the implications of what happens, right? Oh, if like if this person says"
+        },
+        {
+          "id": 92,
+          "start": 525.94,
+          "end": 532.04,
+          "text": "there, if this person doesn't return my text within the hour, what does that mean? That means they"
+        },
+        {
+          "id": 93,
+          "start": 532.04,
+          "end": 536.86,
+          "text": "don't like me. That means they think they're better than me. That means they're more important people."
+        },
+        {
+          "id": 94,
+          "start": 536.86,
+          "end": 541.18,
+          "text": "We attach all kinds of things and it happens really rapidly, it happens subconsciously."
         }
       ],
-      "hook": "\"I spent all my time forgetting yesterday. Triggers anxiety.\"",
-      "recommended_title": "Why Jensen Huang Tries to Forget the Past"
+      "hook": "What do you do when you feel behind in life? Dr. K explains identity vs. identification.",
+      "recommended_title": "How to Overcome Feeling Behind in Life"
     },
     {
       "id": 4,
       "segments": [
         {
+          "id": 95,
+          "start": 541.36,
+          "end": 545.34,
+          "text": "That's really where our suffering comes from. Yeah, well said. Yeah, the Buddha called it the second"
+        },
+        {
+          "id": 96,
+          "start": 545.34,
+          "end": 550.96,
+          "text": "arrow. Like the first arrow it hurts, it's things. And then the second arrow is the meaning, the story,"
+        },
+        {
+          "id": 97,
+          "start": 550.96,
+          "end": 556.34,
+          "text": "the implication that you have not even checked. You've not fact checked, you've not observed. And"
+        },
+        {
+          "id": 98,
+          "start": 556.34,
+          "end": 561.8,
+          "text": "there it is. Yeah, so I'm glad you brought up that example because I was reading that text recently."
+        },
+        {
+          "id": 99,
+          "start": 562.1,
+          "end": 566.32,
+          "text": "I didn't realize, I think so. We talk about the second arrow a lot in psychiatry, which is this concept"
+        },
+        {
+          "id": 100,
+          "start": 566.32,
+          "end": 571.3,
+          "text": "that you know, life sends you the first arrow. You can't control whether you get dumped or not."
+        },
+        {
+          "id": 101,
+          "start": 571.88,
+          "end": 577.4,
+          "text": "But it is the implication that you attach, right? So if I get dumped, that's a fact that's there's"
+        },
+        {
+          "id": 102,
+          "start": 577.4,
+          "end": 581.82,
+          "text": "some amount of pain, some amount of grief. But then you start to tell yourself, I'm a loser. I'm not"
+        },
+        {
+          "id": 103,
+          "start": 581.82,
+          "end": 587.1,
+          "text": "good enough. I'm not good enough. I'll always be alone. Those kinds of thoughts are what you add to"
+        },
+        {
+          "id": 104,
+          "start": 587.1,
+          "end": 592.14,
+          "text": "the equation. The really fascinating thing about how to stop doing that. So this is I was blown away."
+        },
+        {
+          "id": 105,
+          "start": 592.14,
+          "end": 596.4,
+          "text": "I recently read, I realized I'd never like actually looked at the teachings of the Buddha."
+        },
+        {
+          "id": 106,
+          "start": 596.86,
+          "end": 602.14,
+          "text": "What I had done is everyone talks about the teachings of the Buddha, right? But it's like other people"
+        },
+        {
+          "id": 107,
+          "start": 602.14,
+          "end": 606.4,
+          "text": "talking about the Buddha. Yes, it's coming to me. So what I didn't realize is the Buddha actually says"
+        },
+        {
+          "id": 108,
+          "start": 606.4,
+          "end": 610.92,
+          "text": "the second arrow. So we in psychiatry, we talk about this is how you avoid pain and negative emotions."
+        },
+        {
+          "id": 109,
+          "start": 611.26,
+          "end": 615.92,
+          "text": "The Buddha says that the problem with the second arrow is also your positive emotions. He says you"
+        },
+        {
+          "id": 110,
+          "start": 615.92,
+          "end": 621.92,
+          "text": "should stop attaching that to your positive emotions as well. Yes. So when something good happens to"
+        },
+        {
+          "id": 111,
+          "start": 621.92,
+          "end": 626.8,
+          "text": "your life, we get excited about it. He says don't do that. So if you get a promotion, that means I'm"
+        },
+        {
+          "id": 112,
+          "start": 626.8,
+          "end": 630.34,
+          "text": "going to do this and that means I'm going to do this and that means I'm going to do this. Stop doing"
+        },
+        {
+          "id": 113,
+          "start": 630.34,
+          "end": 636.02,
+          "text": "all that promotion is that's all it is. It has no implications. And the really fascinating thing is"
+        },
+        {
+          "id": 114,
+          "start": 636.02,
+          "end": 642.06,
+          "text": "this white so hard for people, everyone wants the associations of the good stuff. But nobody wants"
+        },
+        {
+          "id": 115,
+          "start": 642.06,
+          "end": 646.24,
+          "text": "to give up the associations of the bad stuff. That's not how the brain works. If you want to decouple those"
+        },
+        {
+          "id": 116,
+          "start": 646.24,
+          "end": 652.48,
+          "text": "two things, take something in your life that is good and look at why you're excited about it"
+        },
+        {
+          "id": 117,
+          "start": 652.48,
+          "end": 658.48,
+          "text": "and then let go of that excitement. It happened. That's it. Observe it. It's in the past."
+        },
+        {
+          "id": 118,
+          "start": 658.72,
+          "end": 663.18,
+          "text": "It doesn't mean anything about your future. And if you train yourself on both sides of those coins"
+        },
+        {
+          "id": 119,
+          "start": 663.18,
+          "end": 669.88,
+          "text": "at that coin, then your mastery will increase way more quickly. Yeah, absolutely. As you know, as well,"
+        },
+        {
+          "id": 120,
+          "start": 669.88,
+          "end": 677.58,
+          "text": "it's the definition of equanimity and the Gita of that idea that one's not disturbed by happiness"
+        },
+        {
+          "id": 121,
+          "start": 677.58,
+          "end": 681.96,
+          "text": "or distress. And that's really interesting use of words. It's like, how could you ever be disturbed"
+        },
+        {
+          "id": 122,
+          "start": 681.96,
+          "end": 687.8,
+          "text": "by happiness? But that's how you are because you created so much additional meaning, which now when"
+        },
+        {
+          "id": 123,
+          "start": 687.8,
+          "end": 692.36,
+          "text": "it didn't happen, the promotion didn't even make you happy anymore. Because you believe the promotion"
+        },
+        {
+          "id": 124,
+          "start": 692.36,
+          "end": 698.88,
+          "text": "was your right towards some bigger, greater thing. And now you can't even experience the joy of that"
+        },
+        {
+          "id": 125,
+          "start": 698.88,
+          "end": 703.06,
+          "text": "moment. Absolutely. And that's what I see. You know, I have kind of like a couple different"
+        },
+        {
+          "id": 126,
+          "start": 703.06,
+          "end": 707.76,
+          "text": "buckets of patience. And the interesting thing is I have people who are like 29 years old living at"
+        },
+        {
+          "id": 127,
+          "start": 707.76,
+          "end": 712.32,
+          "text": "home, you know, in their mom's basement playing video games and watching pornography all day. And"
+        },
+        {
+          "id": 128,
+          "start": 712.32,
+          "end": 717.92,
+          "text": "then I also have like executives and CEOs and start up founders. And they do exactly that. They"
+        },
+        {
+          "id": 129,
+          "start": 717.92,
+          "end": 724.06,
+          "text": "attach a lot of things to their happiness. So they end up moving the goalposts. One promotion"
+        },
+        {
           "id": 130,
-          "start": 892.2,
-          "end": 897.44,
-          "text": "of ourselves. And my job is to clean the bathroom. And apparently I was the youngest kid that"
+          "start": 724.06,
+          "end": 728.6,
+          "text": "isn't enough. Now I need another one. Now I need another one. Now I need another one. And it's"
         },
         {
           "id": 131,
-          "start": 897.44,
-          "end": 903.08,
-          "text": "ever went there. I still am, I think. Did you were 10? I was nine when I went there. Yeah. I've got"
+          "start": 728.6,
+          "end": 731.26,
+          "text": "beautiful. The, you know, the quote from the Geath of that you said, because I think"
         },
         {
           "id": 132,
-          "start": 903.08,
-          "end": 909.54,
-          "text": "great memories of it. Um, I, I loved the place. It was, it was a tough school because they invited"
+          "start": 732.5,
+          "end": 737.16,
+          "text": "what does it mean to be disturbed by happiness? Literally the way that I try to work with these people"
         },
         {
           "id": 133,
-          "start": 909.54,
-          "end": 915.92,
-          "text": "kids from all walks of life. Yeah. And so, you know, my roommate was, I was nine and my roommate was 16."
+          "start": 737.16,
+          "end": 744.46,
+          "text": "is it disturbances anything that creates a change in your mind. So your natural state is to be still"
         },
         {
           "id": 134,
-          "start": 916.44,
-          "end": 922.76,
-          "text": "And so, yeah, and it was a tough school because none of the closet had doors and none of the"
+          "start": 744.46,
+          "end": 750.02,
+          "text": "think about when you watch a sunset, you know, or you're just like completely peaceful, like you're"
+        },
+        {
+          "id": 135,
+          "start": 750.02,
+          "end": 755.92,
+          "text": "just there with yourself. And even when you get a promotion, that creates a disturbance. In the moment"
+        },
+        {
+          "id": 136,
+          "start": 755.92,
+          "end": 761.16,
+          "text": "that you create a disturbance, you're no longer still. You're no longer at peace. And you may"
+        },
+        {
+          "id": 137,
+          "start": 761.16,
+          "end": 766.54,
+          "text": "be signing yourself up for future disappointment."
         }
       ],
-      "hook": "\"Welcome to America. My job was to clean the bathroom.\"",
-      "recommended_title": "Jensen Huang's Childhood at a Kentucky Boarding School"
+      "hook": "The Buddha taught about the second arrow—not just for pain, but for positive emotions too.",
+      "recommended_title": "The Second Arrow: Good vs. Bad Emotions"
     },
     {
       "id": 5,
       "segments": [
         {
-          "id": 376,
-          "start": 2477.94,
-          "end": 2485.18,
-          "text": "creditor who now owns it. And so we did. We bought this leftover piece of machinery from this company"
+          "id": 138,
+          "start": 766.54,
+          "end": 772.98,
+          "text": "So if I was to ask you, what does someone do to truly stop caring what people think? So I care a lot about what people think. But I don't let it determine my"
         },
         {
-          "id": 377,
-          "start": 2485.18,
-          "end": 2492.52,
-          "text": "that went ultimately went out of business. And I took half our company's money. So we were already"
+          "id": 139,
+          "start": 772.98,
+          "end": 781.62,
+          "text": "identity. So people say negative things to me all the time. I got reprimanded by the medical board"
         },
         {
-          "id": 378,
-          "start": 2492.52,
-          "end": 2501.22,
-          "text": "running on fumes. And so I cut that life short, even further, took that money, bought this machine that"
+          "id": 140,
+          "start": 781.62,
+          "end": 786.62,
+          "text": "Massachusetts. I think that's a good thing. I think that's a healthy thing. I think that sometimes"
         },
         {
-          "id": 379,
-          "start": 2501.22,
-          "end": 2508.14,
-          "text": "nobody else wanted to buy. Bride to the company. I said, here we are. We've got to put Nvidia's chip"
+          "id": 141,
+          "start": 786.62,
+          "end": 794.26,
+          "text": "in life, I make mistakes. And I think sometimes in life, I behave in a non-perfect way. And so I value"
         },
         {
-          "id": 380,
-          "start": 2508.14,
-          "end": 2516.56,
-          "text": "in B3. We have 128 into this machine. Did anybody say this is crazy? I mean, this is nuts. You're taking"
+          "id": 142,
+          "start": 794.26,
+          "end": 800.3,
+          "text": "what people think. But I also accept that I'm not perfect. Right? So of course I'm going to make"
+        },
+        {
+          "id": 143,
+          "start": 800.3,
+          "end": 807.18,
+          "text": "mistakes. I try not to let it affect my sense of me. And that's the key differentiator. Because what"
+        },
+        {
+          "id": 144,
+          "start": 807.18,
+          "end": 810.84,
+          "text": "a lot of people do, this is the biggest mistake I think you can make is if you're, this is what happens,"
+        },
+        {
+          "id": 145,
+          "start": 810.84,
+          "end": 816.66,
+          "text": "right? People are like, I care so much what people think. So how do I fix that? I stop caring what"
+        },
+        {
+          "id": 146,
+          "start": 816.66,
+          "end": 821.98,
+          "text": "people think. And then you turn yourself into an asshole. And then that causes lots of problems."
+        },
+        {
+          "id": 147,
+          "start": 822.34,
+          "end": 829.34,
+          "text": "And so the problem is either end of the pendulum is a bad idea. So receive what people think. Also"
+        },
+        {
+          "id": 148,
+          "start": 829.34,
+          "end": 834.08,
+          "text": "add some context to it. Don't just take it at face value. Where is this person's criticism coming"
+        },
+        {
+          "id": 149,
+          "start": 834.08,
+          "end": 840.58,
+          "text": "from? 90% of the criticism I get is projection, right? They see in me something that they don't like."
+        },
+        {
+          "id": 150,
+          "start": 840.58,
+          "end": 846.38,
+          "text": "But that's not really who I am. So accept the criticism. And then also recognize that just because"
+        },
+        {
+          "id": 151,
+          "start": 847.28,
+          "end": 854.16,
+          "text": "someone says something about you, even if it's true, that's not who you are, right? It's an"
+        },
+        {
+          "id": 152,
+          "start": 854.16,
+          "end": 860.78,
+          "text": "attribute of you. But at your core, you're just a regular human being trying to navigate this world,"
+        },
+        {
+          "id": 153,
+          "start": 861.12,
+          "end": 866.08,
+          "text": "doing the best that you can. In the moment that you accept yourself as that, nothing great, but also"
+        },
+        {
+          "id": 154,
+          "start": 866.08,
+          "end": 873.98,
+          "text": "nothing terrible. Things become way easier. Yeah, it seems like for most people following whether they"
         }
       ],
-      "hook": "\"I went to Fry's Electronics... bought this machine that nobody else wanted to buy.\"",
-      "recommended_title": "The Desperate Gamble That Saved NVIDIA"
+      "hook": "How to stop caring what people think without turning into an asshole.",
+      "recommended_title": "How to Stop Caring What People Think"
+    },
+    {
+      "id": 6,
+      "segments": [
+        {
+          "id": 331,
+          "start": 1877.56,
+          "end": 1894.64,
+          "text": "We know we need to work out. Everyone knows they need 10,000 steps today. We don't get 10,000 steps"
+        },
+        {
+          "id": 332,
+          "start": 1882.6,
+          "end": 1899.44,
+          "text": "today. Everyone knows they need to eat better but we're still, you know, making all the fast food"
+        },
+        {
+          "id": 331,
+          "start": 1887.9,
+          "end": 1902.44,
+          "text": "companies rich and wealthier. What's the disconnect there? So I think the biggest disconnect is"
+        },
+        {
+          "id": 333,
+          "start": 1902.44,
+          "end": 1907.54,
+          "text": "information doesn't change behavior. So like, you know, I had a patient once this was bad but"
+        },
+        {
+          "id": 334,
+          "start": 1907.54,
+          "end": 1911.98,
+          "text": "I had a patient once who was, I was a medical student. And so they come in and they smoke and I try"
+        },
+        {
+          "id": 335,
+          "start": 1911.98,
+          "end": 1915.72,
+          "text": "to tell him, hey, so like, smoking will give you lung cancer. Smoking will give you heart disease."
+        },
+        {
+          "id": 336,
+          "start": 1915.72,
+          "end": 1920.72,
+          "text": "And he's like, yeah, doc, I know. And I was like, I'm a medical student. He's like, yeah, I know,"
+        },
+        {
+          "id": 337,
+          "start": 1920.9,
+          "end": 1924.76,
+          "text": "but you're a doc basically. It's like, yeah, doc, I know. It's like, I'll stop. I'll quit. I promise."
+        },
+        {
+          "id": 338,
+          "start": 1924.78,
+          "end": 1928.52,
+          "text": "It comes in a month later. How's your smoking? Oh, yeah, I know I'm supposed to. It's not working."
+        },
+        {
+          "id": 339,
+          "start": 1928.52,
+          "end": 1932.96,
+          "text": "And I was like, okay, maybe you want some medication for that. He's like, sure, doc, give me the medication."
+        },
+        {
+          "id": 340,
+          "start": 1933.04,
+          "end": 1936.8,
+          "text": "Comes in a month later. Are you taking the medication? Not really. Okay, let's give you like,"
+        },
+        {
+          "id": 341,
+          "start": 1937.98,
+          "end": 1942.34,
+          "text": "let's try nicotine gum. Like, let's try this. He's not doing it, not doing it, not doing it."
+        },
+        {
+          "id": 342,
+          "start": 1942.34,
+          "end": 1947.0,
+          "text": "So I was, you know, working with my preceptor and I read some about addiction and things like that."
+        },
+        {
+          "id": 343,
+          "start": 1947.04,
+          "end": 1951.06,
+          "text": "And I realized like, you have to, you know, have to motivate him. And so the next time he comes in,"
+        },
+        {
+          "id": 344,
+          "start": 1951.06,
+          "end": 1956.3,
+          "text": "I take a different approach. I'm like, so tell me about yourself. Tell me about, you know, what you're"
+        },
+        {
+          "id": 345,
+          "start": 1956.3,
+          "end": 1960.82,
+          "text": "excited about. And he's like, you know, I love being a father. I have three daughters. And, you know,"
+        },
+        {
+          "id": 346,
+          "start": 1960.94,
+          "end": 1965.18,
+          "text": "I'll die happy the moment that the last one is married because I know they're being taken care of."
+        },
+        {
+          "id": 347,
+          "start": 1965.34,
+          "end": 1969.84,
+          "text": "And it's going to be such a great day. Like my oldest daughter is married. It was awesome. Like,"
+        },
+        {
+          "id": 348,
+          "start": 1971.22,
+          "end": 1975.72,
+          "text": "walking her down the aisle was one of the best experiences I've ever had. Then I ask him, oh, great."
+        },
+        {
+          "id": 349,
+          "start": 1975.72,
+          "end": 1980.1,
+          "text": "When your, when your second daughter gets married, do you want to be wheeling an oxygen tank"
+        },
+        {
+          "id": 350,
+          "start": 1980.66,
+          "end": 1984.9,
+          "text": "behind you? And do you want to be pushed in a wheelchair when your third daughter gets married?"
+        },
+        {
+          "id": 351,
+          "start": 1984.9,
+          "end": 1990.5,
+          "text": "And he was like, no, right? Like I said, something that was so mean. And I was like, that's what's"
+        },
+        {
+          "id": 352,
+          "start": 1990.5,
+          "end": 1995.92,
+          "text": "going to happen if you don't stop smoking. And so that was brutal. I wouldn't recommend it. I was"
+        },
+        {
+          "id": 353,
+          "start": 1995.92,
+          "end": 2002.14,
+          "text": "still learning. I was still a medical student. But I think a lot of behavioral change comes from"
+        },
+        {
+          "id": 354,
+          "start": 2002.26,
+          "end": 2006.5,
+          "text": "like motivation within. You have to have a good reason to do it. Not in like an intellectual like,"
+        },
+        {
+          "id": 355,
+          "start": 2006.7,
+          "end": 2010.84,
+          "text": "oh, this is like, I'm not going to get cancer 40 years from now. Your brain doesn't understand."
+        },
+        {
+          "id": 356,
+          "start": 2011.5,
+          "end": 2020.52,
+          "text": "So this is what people don't get. When I tell you like, do this or you'll get cancer, how does your brain know what cancer feels like? So if you touch a hot pan, your brain knows they're"
+        },
+        {
+          "id": 357,
+          "start": 2020.52,
+          "end": 2024.96,
+          "text": "like, okay, and then it's hard to touch a hot pan. But how does your brain know this like"
+        },
+        {
+          "id": 358,
+          "start": 2024.96,
+          "end": 2029.96,
+          "text": "hypothetical thing? It doesn't. So information goes into this one part of our brain that really"
+        },
+        {
+          "id": 359,
+          "start": 2029.96,
+          "end": 2034.66,
+          "text": "doesn't shape our behavior. What shapes our behavior is emotions. So if you think about when you get"
+        },
+        {
+          "id": 360,
+          "start": 2034.66,
+          "end": 2041.82,
+          "text": "angry, then everyone's telling you not to act. Stop, slow down, don't act. When you get angry,"
+        },
+        {
+          "id": 361,
+          "start": 2041.92,
+          "end": 2047.62,
+          "text": "you feel like acting. So the first thing is that we need to focus more on finding like our right,"
+        },
+        {
+          "id": 362,
+          "start": 2047.84,
+          "end": 2053.26,
+          "text": "like the right emotional reason. Like what is the reason for your change? What really drives you to"
+        },
+        {
+          "id": 363,
+          "start": 2053.26,
+          "end": 2058.32,
+          "text": "change? The more you connect with that, then the information will become useful. There's another"
+        }
+      ],
+      "hook": "Why information doesn't change behavior and what actually works.",
+      "recommended_title": "Why Information Doesn't Change Behavior"
+    },
+    {
+      "id": 7,
+      "segments": [
+        {
+          "id": 386,
+          "start": 2180.62,
+          "end": 2186.86,
+          "text": "in life, and I take someone who has purpose in life, what do they do differently? That's what we try to"
+        },
+        {
+          "id": 387,
+          "start": 2187.64,
+          "end": 2196.58,
+          "text": "change. So the first thing is self-direction. So people, as long as life is happening to you,"
+        },
+        {
+          "id": 388,
+          "start": 2197.26,
+          "end": 2202.3,
+          "text": "and you are not making choices, if you are forced to make choices, you will feel out of direction."
+        },
+        {
+          "id": 389,
+          "start": 2203.36,
+          "end": 2207.82,
+          "text": "So this is kind of counterintuitive. But the first thing I tell people to do is start making choices."
+        },
+        {
+          "id": 390,
+          "start": 2208.38,
+          "end": 2212.74,
+          "text": "And then the first question that they ask me is, how do I know what's right or wrong? That's not actually"
+        },
+        {
+          "id": 391,
+          "start": 2212.74,
+          "end": 2219.28,
+          "text": "doesn't matter. What matters in your brain is that you choose. And the whole point, this is really"
+        },
+        {
+          "id": 392,
+          "start": 2219.28,
+          "end": 2224.6,
+          "text": "insidious. If you think about right or wrong, if you figure out right or wrong, you're not making"
+        },
+        {
+          "id": 393,
+          "start": 2224.6,
+          "end": 2229.86,
+          "text": "the choice. The world tells you this is right, and this is wrong. That's the world making the choice"
+        },
+        {
+          "id": 394,
+          "start": 2229.86,
+          "end": 2233.78,
+          "text": "for you. This is right, and this is wrong. So forget about right or wrong, and just make a choice."
+        },
+        {
+          "id": 395,
+          "start": 2233.86,
+          "end": 2239.46,
+          "text": "I don't care what it is. Choose match on instead of coffee. Put your left shoe on first instead of"
+        },
+        {
+          "id": 396,
+          "start": 2239.58,
+          "end": 2245.3,
+          "text": "your right shoe. Start brushing with your left hand. So you need to start making choices."
+        },
+        {
+          "id": 397,
+          "start": 2245.96,
+          "end": 2251.0,
+          "text": "There's a beautiful element about anxiety that we can talk about there. It'll also like drastically"
+        },
+        {
+          "id": 398,
+          "start": 2251.0,
+          "end": 2257.48,
+          "text": "help your anxiety. Second thing that you need to do is stretch your capacity. So we feel like we have"
+        },
+        {
+          "id": 399,
+          "start": 2257.48,
+          "end": 2261.64,
+          "text": "purpose in life because it's not purpose, but this is like literally what the scientific makeup of"
+        },
+        {
+          "id": 400,
+          "start": 2261.64,
+          "end": 2267.26,
+          "text": "purpose is stretching your capacity. So we always feel overwhelmed. I don't want to do it. I want to"
+        },
+        {
+          "id": 401,
+          "start": 2267.26,
+          "end": 2272.18,
+          "text": "do the bare minimum. We're a society of people who do the bare minimum. We're a society of people"
+        },
+        {
+          "id": 402,
+          "start": 2272.18,
+          "end": 2279.52,
+          "text": "who companies use chat GPT and AI to review applications. Now everyone is using AI to apply for jobs."
+        },
+        {
+          "id": 403,
+          "start": 2279.52,
+          "end": 2286.64,
+          "text": "It's just AI talking to AI. We're trying to do as little as possible, and we're seeing an epidemic"
+        },
+        {
+          "id": 404,
+          "start": 2286.64,
+          "end": 2290.7,
+          "text": "of purposelessness. We're seeing an epidemic of pornography use. That's because in your brain,"
+        },
+        {
+          "id": 405,
+          "start": 2290.72,
+          "end": 2296.56,
+          "text": "these two things are connected. The moment you stretch your capacities, once again, it doesn't matter"
+        },
+        {
+          "id": 406,
+          "start": 2296.56,
+          "end": 2305.68,
+          "text": "what you're doing. If you swim 10 laps, swim 11. If you are wake up at seven o'clock every day,"
+        },
+        {
+          "id": 407,
+          "start": 2306.24,
+          "end": 2312.2,
+          "text": "wake up at 6.59. This is the beautiful thing. The content of what you do is completely irrelevant."
+        },
+        {
+          "id": 408,
+          "start": 2312.38,
+          "end": 2316.38,
+          "text": "Not completely irrelevant. That's not wrong. That's wrong. But the key thing is that you stretch"
+        },
+        {
+          "id": 409,
+          "start": 2316.38,
+          "end": 2324.86,
+          "text": "your capacities. I didn't think I was capable of this. You don't even have to succeed. You just"
+        },
+        {
+          "id": 410,
+          "start": 2324.86,
+          "end": 2331.18,
+          "text": "out. I was wrong. At least I tried. When you start thinking in this way, when I ask someone,"
+        },
+        {
+          "id": 411,
+          "start": 2331.34,
+          "end": 2339.2,
+          "text": "if I like a quick thought experiment, we're always afraid of giving it or all in failing. But when"
+        },
+        {
+          "id": 412,
+          "start": 2339.2,
+          "end": 2345.08,
+          "text": "you give it, you're all, how do you usually feel? You can usually sleep at night, as long as some"
+        },
+        {
+          "id": 413,
+          "start": 2345.08,
+          "end": 2350.56,
+          "text": "of this stuff like ego and stuff doesn't get in the way. At least I tried my best. That can give you"
+        },
+        {
+          "id": 414,
+          "start": 2350.56,
+          "end": 2354.6,
+          "text": "a good sense. That's a little hard less than I learned in med school because, or in residencies."
+        },
+        {
+          "id": 415,
+          "start": 2356.08,
+          "end": 2360.94,
+          "text": "What helps me sleep at night is not whether the patient lives or dies. Did I give it my all?"
+        },
+        {
+          "id": 416,
+          "start": 2361.06,
+          "end": 2366.62,
+          "text": "Did I do everything within my power to try to help this person? If I did, the rest is out of my hands."
+        },
+        {
+          "id": 417,
+          "start": 2367.68,
+          "end": 2374.24,
+          "text": "You have to stretch your capacities. The third thing, and this is the hardest one, relatedness."
+        },
+        {
+          "id": 418,
+          "start": 2374.78,
+          "end": 2381.06,
+          "text": "So people have to be able to see you and respond to the real you. It doesn't necessarily have to be"
+        },
+        {
+          "id": 419,
+          "start": 2381.06,
+          "end": 2386.8,
+          "text": "positive. A certain amount of accepting that person is good. But other people have to be able to see"
+        },
+        {
+          "id": 420,
+          "start": 2386.8,
+          "end": 2390.86,
+          "text": "who you are. That's really hard because people don't have the attention for that. Everyone's on"
+        },
+        {
+          "id": 421,
+          "start": 2390.86,
+          "end": 2396.32,
+          "text": "their cell phones. I think if you cultivate these three things, your sense of purpose will increase"
+        },
+        {
+          "id": 422,
+          "start": 2396.32,
+          "end": 2403.58,
+          "text": "in life. That's fresh. I like that. I like that you've used what you'd see is the difference between"
+        },
+        {
+          "id": 423,
+          "start": 2403.58,
+          "end": 2408.52,
+          "text": "a purposeful person and someone who doesn't have purpose to find what paths to travel."
+        }
+      ],
+      "hook": "What is the scientific makeup of purpose? Dr. K breaks it down into three key pillars.",
+      "recommended_title": "The Science of Purpose"
     }
   ]
 }
