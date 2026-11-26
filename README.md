@@ -56,3 +56,16 @@ Download videos in the videos folder:
 ```bash
 python video_downloader.py [youtube video url]
 ```
+To skip the download and start directly with transcription:
+
+```bash
+uv run main.py --skip-download
+```
+
+To generate clips with existing clips,json, full_transciption.json and video.mp4:
+
+```bash
+uv run clip_maker.py -w [number of worker]
+```
+
+Here the [number of worker] are the number of clips that will be processed together, set 1 for the smoothest output.
