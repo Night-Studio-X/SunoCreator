@@ -2,27 +2,23 @@ from faster_whisper import WhisperModel
 import json
 from pathlib import Path
 
-# try:
-#     model = WhisperModel(
-#         "base",
-#         device="cuda",
-#         compute_type="float16",
-#     )
-#     print("Model loaded in cuda")
+try:
+    model = WhisperModel(
+        "base",
+       device="cuda",
+        compute_type="float16",
+    )
+    print("Model loaded in cuda")
 
-# except Exception:
-#     model = WhisperModel(
-#         "base",
-#         device="cpu",
-#         compute_type="int8",
-#     )
-#     print("Model loaded in cpu")
+except Exception:
+    model = WhisperModel(
+         "base",
+        device="cpu",
+         compute_type="int8",
+    )
+    print("Model loaded in cpu")
 
-model = WhisperModel(
-    "base",
-    device="cpu",
-    compute_type="int8"
-)
+
 
 def get_full_transcript():
 

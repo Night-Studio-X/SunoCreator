@@ -44,7 +44,7 @@ def get_video_encoder():
         probe = subprocess.run(
             [
                 "ffmpeg", "-hide_banner", "-loglevel", "error",
-                "-f", "lavfi", "-i", "color=black:s=64x64:d=0.1",
+                "-f", "lavfi", "-i", "color=black:s=1920x1080:d=1",
                 "-frames:v", "1", "-c:v", "h264_nvenc",
                 "-f", "null", "-",
             ],
